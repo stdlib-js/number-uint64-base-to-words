@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`46fd304`](https://github.com/stdlib-js/stdlib/commit/46fd304d00ac69f1fb6bb3eaa8965022724aa247) - **chore:** follow-up fixes for recent commits [(#12933)](https://github.com/stdlib-js/stdlib/pull/12933) _(by Philipp Burckhardt)_
 -   [`06a03d7`](https://github.com/stdlib-js/stdlib/commit/06a03d7ace64a14e40c96b45c75ab9c8f0503dac) - **feat:** add `uint64/base/to-words` [(#12719)](https://github.com/stdlib-js/stdlib/pull/12719) _(by Abdul Kaium, Athan Reines)_
 
 </details>
@@ -34,10 +35,11 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Abdul Kaium
 -   Athan Reines
+-   Philipp Burckhardt
 
 </section>
 
