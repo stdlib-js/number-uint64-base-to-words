@@ -37,6 +37,8 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
+    "@stdlib/number-uint64-base-get-high-word": "github:stdlib-js/number-uint64-base-get-high-word#main",
+    "@stdlib/number-uint64-base-get-low-word": "github:stdlib-js/number-uint64-base-get-low-word#main",
     "@stdlib/types": "^0.5.1",
     "@stdlib/utils-define-nonenumerable-read-only-property": "^0.2.3"
   },
